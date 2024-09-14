@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Caio 👋
 
-<!--
-**Polini2002/Polini2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um  apaixonado cyber segurança
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔒 **Se especializando em Cyber Segurança** 
+
+🌐 **Competências**:
+- Testes de penetração (PenTesting)
+- 
+- 
+- 
+- 
+
+🔭 Atualmente estou sem projetos e trabalhos.
+
+🌱 Sempre em busca de aprender sobre as últimas ameaças e soluções de segurança.
